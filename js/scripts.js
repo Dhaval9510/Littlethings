@@ -37,7 +37,7 @@ $('.center').slick({
   centerMode: true,
   slidesToShow: 3,
   slidesToScroll: 3,
-  rows: 2,
+  rows: 1,
   responsive: [
     {
       breakpoint: 1024,
