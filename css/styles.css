@@ -11924,7 +11924,14 @@ button.enquiry-button {
 
 }
 
-
+a.lettalkslink {
+    color: black;
+    text-decoration: none !important;
+}
+a.maillink {
+    color: white;
+    text-decoration: none !important;
+}
 
 
 
